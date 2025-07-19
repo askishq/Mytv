@@ -14,3 +14,26 @@ https://tvsen5.aynascope.net/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8?e=1752907527&
 
 #EXTINF:-1 tvg-id="channel5" tvg-logo="https://i.postimg.cc/XNBcbqsQ/20250719-113125.jpg" group-title="BANGLA",R TV
 https://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8?e=1752907143&token=efa3da284e62d6132befa0be64674aa1&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="https://i.postimg.cc/02WVkFpC/20250719-115531.jpg" group-title="bangla",Ekushey TV
+https://tvsen6.aynascope.net/etv/tracks-v1a1/mono.ts.m3u8?e=1752911486&token=ce4726f66a22dc2a1eb7c14341ee6570&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="https://i.postimg.cc/qRTLDTTp/20250719-115608.jpg" group-title="bangla",Mohona TV
+https://tvsen6.aynascope.net/mohonatv/tracks-v1a1/mono.ts.m3u8?e=1752912125&token=2741256cc4d789a0b5e38c3e2188303c&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="https://i.postimg.cc/PJh8kX35/20250719-120720.jpg" group-title="bangla",Nexus TV
+https://tvsen6.aynascope.net/nexustv/tracks-v1a1/mono.ts.m3u8?e=1752912343&token=818a1135d6deed8f852051da9c78ae89&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="https://i.postimg.cc/VvNX2sHP/20250719-115549.jpg" group-title="news",Jamuna TV
+https://tvsen6.aynascope.net/jamunatv/tracks-v1a1/mono.ts.m3u8?e=1752912089&token=8697c2c2ce93f6063878d09ed0ca801f&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="https://i.postimg.cc/xCfmbTQN/20250719-115644.jpg" group-title="adventure", Discovery
+https://tvsen6.aynascope.net/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8?e=1752912235&token=ad1a6fec76c1f8dd8fc83c67a31946b2&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-id="channel6" tvg-logo="" group-title="",
