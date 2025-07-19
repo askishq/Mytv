@@ -26,7 +26,7 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config --global user.email "free166977@gmail.com"
+          git config --global user.email "free16697@gmail.com"
           git config --global user.name "Ashik"
           git add playlist.m3u
           git commit -m "Auto updated playlist"
