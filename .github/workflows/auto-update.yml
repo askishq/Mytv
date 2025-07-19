@@ -1,0 +1,34 @@
+name: Auto Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # প্রতি ৩০ মিনিটে রান করবে
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_playlist.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.email "free166977@gmail.com"
+          git config --global user.name "Ashik"
+          git add playlist.m3u
+          git commit -m "Auto updated playlist"
+          git push
+          
