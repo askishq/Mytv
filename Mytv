@@ -9,8 +9,8 @@ https://tvsen5.aynascope.net/Ptvsports/tracks-v1a1/mono.ts.m3u8?e=1752908967&tok
 #EXTINF:-1 tvg-id="channel3" tvg-logo="https://i.postimg.cc/5NZByVRb/20250719-113037.jpg" group-title="Sports",Willow TV
 https://tvsen5.aynascope.net/willowhd/tracks-v1a1/mono.ts.m3u8?e=1752909247&token=735a76f9b3d8869d719f4da8742eb787&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
 
-#EXTINF:-1 tvg-id="channel4" tvg-logo="https://i.postimg.cc/rs4SCZDv/20250719-113105.jpg" group-title="BANGLA",Gtv
+#EXTINF:-1 tvg-id="channel4" tvg-logo="https://i.postimg.cc/rs4SCZDv/20250719-113105.jpg" group-title="BANGLA",G TV
 https://tvsen5.aynascope.net/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8?e=1752907527&token=d8b098310038a25e285b5d6a263c0dc6&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
 
-#EXTINF:-1 tvg-id="channel5" tvg-logo="https://i.postimg.cc/XNBcbqsQ/20250719-113125.jpg" group-title="BANGLA",Rtv
+#EXTINF:-1 tvg-id="channel5" tvg-logo="https://i.postimg.cc/XNBcbqsQ/20250719-113125.jpg" group-title="BANGLA",R TV
 https://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8?e=1752907143&token=efa3da284e62d6132befa0be64674aa1&u=b34e8834-eae9-415c-856a-7dc9fe3fd9ec
